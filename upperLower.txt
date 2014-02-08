@@ -1,0 +1,3 @@
+def findPossibleIds(n):
+	for i in range(len(n)):
+		
